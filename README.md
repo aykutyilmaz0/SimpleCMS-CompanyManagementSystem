@@ -1,3 +1,7 @@
 # SimpleCMS-CompanyManagementSystem
  
-ASP.NET, MVC, Katmanlı Mimari, EntityFramework, Razor WebPage
+- ASP.NET, 
+- Razor WebPage,
+- MVC,
+- Katmanlı Mimari,
+- Entity Framework
